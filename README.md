@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently learning DevOps<br>I am Full-Stack Developer<br>
+Currently learning DevOps<br> m Full-Stack Developer<br>
 
 
 ## 🌐 Socials:
