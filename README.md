@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Building KIMO - The ultimate demo clip maker...<br>👯 Open to contribute on open-source projects<br>🤝 Looking for full-time role in product-base startup.<br>🌱 Currently Learning DevOps And AI/ML.<br>⚡ I Just love to Challenge my Mind's limit everyday.
+🔭 Building Churro - The ultimate demo clip maker...<br>👯 Open to contribute on open-source projects<br>🤝 Looking for full-time role in product-base startup.<br>🌱 Currently Learning DevOps And AI/ML.<br>⚡ I Just love to Challenge my Mind's limit everyday.
 
 
 ## 🌐 Socials:
